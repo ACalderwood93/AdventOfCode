@@ -42,7 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ILevel.cs" />
-    <Compile Include="Level 1\cheat.cs" />
     <Compile Include="Level 1\level1.cs" />
     <Compile Include="Level 1\GameObject.cs" />
     <Compile Include="Level2\Level2.cs" />
